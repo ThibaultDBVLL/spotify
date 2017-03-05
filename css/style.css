@@ -6,3 +6,12 @@ background-image: -webkit-linear-gradient(#8a2089, #8c177d 60%, #95139c);
 #test{
   border : 2px solid black;
 }
+
+.zonegrise{
+  background-color : black;
+  color : white;
+}
+
+.alldevices{
+  display : flex;
+}
